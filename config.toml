@@ -1,4 +1,5 @@
-baseURL = "https://nbozon.github.io/GRASS-GIS/"
+baseURL = "./"
+relativeURLs = true
 theme = "grass"
 
 
